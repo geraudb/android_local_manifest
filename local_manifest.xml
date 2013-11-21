@@ -2,7 +2,7 @@
 <manifest>
     <!-- CM replacements -->
     <remove-project name="CyanogenMod/android_frameworks_av" />
-    <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0-qcom" />
+    <project path="frameworks/av" name="SeannyM/android_frameworks_av" revision="cm-11.0" />
     <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
     <project path="hardware/libhardware_legacy" name="johnnyslt/android_hardware_libhardware_legacy" revision="cm-11.0" />
 
