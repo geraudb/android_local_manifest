@@ -3,7 +3,7 @@
     <!-- GT-S7560M -->
     <project path="device/samsung/kylessopen" name="SeannyM/android_device_samsung_kylessopen" revision="master" />
     <project path="kernel/samsung/kylessopen" name="SeannyM/android_kernel_samsung_kylessopen" revision="master" />
-    <project path="vendor/samsung/kylessopen" name="SeannyM/vendor_samsung_kylessopen" revision="master" />
+    <project path="vendor/samsung/kylessopen" name="SeannyM/android_vendor_samsung_kylessopen" revision="master" />
 
     <!-- FM Radio -->
     <project path="hardware/qcom/fm" name="legaCyMod/android_hardware_qcom_fm" revision="cm-11.0" />
