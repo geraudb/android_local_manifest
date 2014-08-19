@@ -4,10 +4,10 @@
     <remove-project name="CyanogenMod/android_frameworks_av" />
     <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
     <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
-    <project path="hardware/libhardware_legacy" name="johnnyslt/android_hardware_libhardware_legacy" revision="cm-11.0" />
+    <project path="hardware/libhardware_legacy" name="jonypx09/android_hardware_libhardware_legacy" revision="cm-11.0" />
 
     <!-- Local projects -->
-    <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_atheros" revision="cm-11.0" />
+    <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wlan" revision="cm-11.0" />
     <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-11.0" />
     <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy" revision="cm-11.0" />
 </manifest>
