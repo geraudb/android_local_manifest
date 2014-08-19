@@ -7,7 +7,7 @@
     <project path="hardware/libhardware_legacy" name="johnnyslt/android_hardware_libhardware_legacy" revision="cm-11.0" />
 
     <!-- Local projects -->
-    <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wifi_libs" revision="cm-10.2" />
+    <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_atheros" revision="cm-11.0" />
     <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-11.0" />
     <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy" revision="cm-11.0" />
 </manifest>
