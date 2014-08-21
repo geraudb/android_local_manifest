@@ -7,8 +7,6 @@
     <project path="hardware/ril" name="omnirom/android_hardware_ril" revision="android-4.4" />
     <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
     <project path="hardware/libhardware_legacy" name="johnnyslt/android_hardware_libhardware_legacy" revision="cm-11.0" />
-    <remove-project name="CyanogenMod/android_bootable_recovery" />
-    <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-4.4" />
 
     <!-- Local projects -->
     <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wlan" revision="cm-11.0" />
