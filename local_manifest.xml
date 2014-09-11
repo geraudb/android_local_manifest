@@ -3,12 +3,13 @@
     <!-- CM replacements -->
     <remove-project name="CyanogenMod/android_frameworks_av" />
     <project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
-    <remove-project name="CyanogenMod/android_hardware_ril" />
-    <project path="hardware/ril" name="omnirom/android_hardware_ril" revision="android-4.4" />
     <!--remove-project name="CyanogenMod/android_packages_apps_Bluetooth" /-->
     <!--remove-project name="CyanogenMod/android_packages_apps_BluetoothExt" /-->
+    <remove-project name="CyanogenMod/android_hardware_ril" />
+    <project path="hardware/ril" name="omnirom/android_hardware_ril" revision="android-4.4" />
     <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
     <project path="hardware/libhardware_legacy" name="johnnyslt/android_hardware_libhardware_legacy" revision="cm-11.0" />
+
 
     <!-- Local projects -->
     <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wlan" revision="cm-11.0" />
